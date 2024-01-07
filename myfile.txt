@@ -1,0 +1,2 @@
+{"id": 2, "name": "nam", "point": 4}
+{"id": 1, "name": "tien", "point": 1}
